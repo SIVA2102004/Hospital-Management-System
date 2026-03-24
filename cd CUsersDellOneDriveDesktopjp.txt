@@ -1,0 +1,2 @@
+cd C:\Users\Dell\OneDrive\Desktop\jp
+java -cp ".;lib\mysql-connector-j-9.3.0.jar" HospitalSystem
